@@ -1,6 +1,6 @@
 # Pong
 
-Hi! Pong game I developed using Unity.
+Hi! Pong game I developed with Unity.
 
 
 
